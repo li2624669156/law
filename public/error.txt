@@ -1,0 +1,10 @@
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx3d751ea7a2f7c064]]></appid>
+<mch_id><![CDATA[1499304962]]></mch_id>
+<nonce_str><![CDATA[LPGdWf9iykqZw7zQ]]></nonce_str>
+<sign><![CDATA[DE570DBBEEC6A6DE76292A5346D02A46]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[INVALID_REQUEST]]></err_code>
+<err_code_des><![CDATA[201 商户订单号重复]]></err_code_des>
+</xml>
